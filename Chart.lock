@@ -1,0 +1,6 @@
+dependencies:
+- name: minio
+  repository: https://charts.kubegems.io/kubegemsapp
+  version: 7.1.1
+digest: sha256:6d81007431aa057d51ed26db3219c4c197d6eb7623ec2fe262dea2de4bab0054
+generated: "2024-12-11T17:54:26.591452101+03:00"
